@@ -8,7 +8,7 @@ Fei Zhu, Xu-Yao Zhang, Cheng-Lin Liu<br>
 ### Usage 
 run `main.py`.
 
-## Citation 
+### Citation 
 ```
 @inproceedings{zhu2021calibration,
   title={Calibration for Non-Exemplar Based Class-Incremental Learning},
@@ -20,6 +20,6 @@ run `main.py`.
 }
 ```
 
-## Reference
+### Reference
 Our implementation uses the source code from the following repository:
 * <https://github.com/DRSAD/iCaRL>
