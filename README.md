@@ -3,7 +3,7 @@
 
 ### [ICME2021 Oral] Calibration for Non-exemplar Based Class-incremental Learning
 Fei Zhu, Xu-Yao Zhang, Cheng-Lin Liu<br>
-[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428409)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9428409)
 
 ### Usage 
 run `main.py`.
