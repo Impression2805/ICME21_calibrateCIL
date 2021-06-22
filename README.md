@@ -1,6 +1,5 @@
 ## calibrateCIL - Official PyTorch Implementation
-![](./framework_icme_new.pdf)
-![](./local_softmax_cutout.pdf)
+<img src="./motivation.png" width="650">
 ### [ICME2021 Oral] Calibration for Non-exemplar Based Class-incremental Learning
 Fei Zhu, Xu-Yao Zhang, Cheng-Lin Liu<br>
 [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428409)
